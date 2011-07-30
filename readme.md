@@ -8,6 +8,11 @@ For example. Profiles are used by [TotalTerminal](http://totalterminal.binaryage
 
 My initial motivation was to create a place where new TotalTerminal users can find nice-looking profile when starting. But more generally this can become a place where community can share their profiles in a cultivated way (e.g. with history).
 
+# How do I use these profiles?
+
+1. Download individual .terminal files or clone the repo
+2. In Terminal.app, on Preferences->Settings pane, choose "Import" from the small cog icon under the list
+
 # How could you add your own profile?
 
 Note: Please make sure you are using the Lion version of Terminal.app.
